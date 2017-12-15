@@ -40,7 +40,8 @@ Code tested in Ubuntu 16.04 with Nvidia GPU + CUDA CuDNN.
     - MASKPERC: choose from '10', '20', '30', '40', '50' (percentage of mask)
  
 4. Test trained model
-    (to be finished soon)
+    
+    1) (to be finished soon)
 
 # Results
 

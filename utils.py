@@ -34,9 +34,7 @@ def fft_abs_for_map_fn(x):
     x = (x + 1.) / 2.
     x_complex = tf.complex(x, tf.zeros_like(x))[:, :, 0]
     fft = tf.spectral.fft2d(x_complex)
-    print(fft.shape)
     fft_abs = tf.abs(fft)
-    print(fft_abs.shape)
     return fft_abs
 
 

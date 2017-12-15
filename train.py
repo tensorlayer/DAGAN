@@ -140,7 +140,6 @@ def main_train():
     g_nmse_b = tf.sqrt(tf.reduce_sum(tf.square(t_image_good), axis=[1, 2, 3]))
     g_nmse = tf.reduce_mean(g_nmse_a / g_nmse_b)
 
-
     # generator loss (frequency)
     fft_good_abs = tf.map_fn(fft_abs_for_map_fn, t_image_good)
     fft_gen_abs = tf.map_fn(fft_abs_for_map_fn, net.outputs)
