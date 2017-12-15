@@ -81,6 +81,5 @@ def logging_setup(log_dir):
     return log_all, log_eval, log_50, log_all_filename, log_eval_filename, log_50_filename
 
 
-
 if __name__ == "__main__":
     pass
