@@ -1,6 +1,6 @@
 # DAGAN
 
-This is the implementation code for "DAGAN: Deep De-Aliasing Generative Adversarial Networks for Fast Compressed Sensing MRI Reconstruction". [Paper Link]() (appear soon)
+This is the implementation code for "DAGAN: Deep De-Aliasing Generative Adversarial Networks for Fast Compressed Sensing MRI Reconstruction". [Paper Link](https://ieeexplore.ieee.org/document/8233175/)
 
 The code was written by Simiao Yu and Hao Dong.
 
