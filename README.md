@@ -41,7 +41,7 @@ Code tested in Ubuntu 16.04 with Nvidia GPU + CUDA CuDNN.
  
 4. Test trained model
     
-    1) (to be finished soon)
+    1) run 'CUDA_VISIBLE_DEVICES=0 python test.py --model MODEL --mask MASK --maskperc MASKPERC' where you should specify MODEL, MASK, MASKPERC respectively (as above).
 
 # Results
 
