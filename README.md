@@ -1,7 +1,8 @@
 # DAGAN
 
-This is the official implementation code for [DAGAN: Deep De-Aliasing Generative Adversarial Networks for Fast Compressed Sensing MRI Reconstruction](https://ieeexplore.ieee.org/document/8233175/) published in IEEE Transactions on Medical Imaging (2018).
- [Guang Yang](https://www.imperial.ac.uk/people/g.yang)\*,  [Simiao Yu](https://nebulav.github.io/)\*, et al. (* equal contributions) 
+This is the official implementation code for [DAGAN: Deep De-Aliasing Generative Adversarial Networks for Fast Compressed Sensing MRI Reconstruction](https://ieeexplore.ieee.org/document/8233175/) published in IEEE Transactions on Medical Imaging (2018).  
+[Guang Yang](https://www.imperial.ac.uk/people/g.yang)\*, [Simiao Yu](https://nebulav.github.io/)\*, et al.  
+(* equal contributions) 
 
 If you use this code for your research, please cite our paper.
 
