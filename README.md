@@ -1,12 +1,23 @@
 # DAGAN
 
-This is the implementation code for "DAGAN: Deep De-Aliasing Generative Adversarial Networks for Fast Compressed Sensing MRI Reconstruction". [Paper Link](https://ieeexplore.ieee.org/document/8233175/)
-
-The code was written by Simiao Yu and Hao Dong.
+This is the official implementation code for [DAGAN: Deep De-Aliasing Generative Adversarial Networks for Fast Compressed Sensing MRI Reconstruction](https://ieeexplore.ieee.org/document/8233175/) published in IEEE Transactions on Medical Imaging (2018).
+ [Guang Yang](https://www.imperial.ac.uk/people/g.yang)\*,  [Simiao Yu](https://nebulav.github.io/)\*, et al. (* equal contributions) 
 
 If you use this code for your research, please cite our paper.
 
-If you have any questions, please contact Simiao Yu (simiao.yu13@imperial.ac.uk) or Guang Yang (g.yang@imperial.ac.uk).
+```
+@article{yang2018_dagan,
+	author = {Yang, Guang and Yu, Simiao and Dong, Hao and Slabaugh, Gregory G. and Dragotti, Pier Luigi and Ye, Xujiong and Liu, Fangde and Arridge, Simon R. and Keegan, Jennifer and Guo, Yike and Firmin, David N.},
+	journal = {IEEE Trans. Med. Imaging},
+	number = 6,
+	pages = {1310--1321},
+	title = {{DAGAN: deep de-aliasing generative adversarial networks for fast compressed sensing MRI reconstruction}},
+	volume = 37,
+	year = 2018
+}
+```
+
+If you have any questions about this code, please feel free to contact Simiao Yu (simiao.yu13@imperial.ac.uk).
 
 # Prerequisites
 
@@ -17,9 +28,9 @@ The original code is in python 3.5 under the following dependencies:
 4. nibabel (v2.1.0)
 5. scikit-image (v0.12.3)
 
-Code tested in Ubuntu 16.04 with Nvidia GPU + CUDA CuDNN.
+Code tested in Ubuntu 16.04 with Nvidia GPU + CUDA CuDNN (whose version is compatible to tensorflow v1.1.0).
 
-# How to use the code
+# How to use
 
 1. Prepare data
 
@@ -45,4 +56,4 @@ Code tested in Ubuntu 16.04 with Nvidia GPU + CUDA CuDNN.
 
 # Results
 
-Please refer to the paper for detailed results.
+Please refer to the paper for the detailed results.
