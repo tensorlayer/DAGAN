@@ -1,0 +1,42 @@
+Training datasets:
+
+1003_3x1110_3Warped.nii.gz  1004_3x1023_3Warped.nii.gz  1005_3x1010_3Warped.nii.gz  1006_3x1000_3Warped.nii.gz
+1003_3x1113_3Warped.nii.gz  1004_3x1024_3Warped.nii.gz  1005_3x1011_3Warped.nii.gz  1006_3x1001_3Warped.nii.gz
+1003_3x1116_3Warped.nii.gz  1004_3x1025_3Warped.nii.gz  1005_3x1012_3Warped.nii.gz  1006_3x1002_3Warped.nii.gz
+1003_3x1119_3Warped.nii.gz  1004_3x1036_3Warped.nii.gz  1005_3x1013_3Warped.nii.gz  1006_3x1003_3Warped.nii.gz
+1003_3x1122_3Warped.nii.gz  1004_3x1038_3Warped.nii.gz  1005_3x1014_3Warped.nii.gz  1006_3x1004_3Warped.nii.gz
+1003_3x1125_3Warped.nii.gz  1004_3x1039_3Warped.nii.gz  1005_3x1015_3Warped.nii.gz  1006_3x1005_3Warped.nii.gz
+1003_3x1128_3Warped.nii.gz  1004_3x1101_3Warped.nii.gz  1005_3x1017_3Warped.nii.gz  1006_3x1007_3Warped.nii.gz
+1004_3x1000_3Warped.nii.gz  1004_3x1104_3Warped.nii.gz  1005_3x1018_3Warped.nii.gz  1006_3x1008_3Warped.nii.gz
+1004_3x1001_3Warped.nii.gz  1004_3x1107_3Warped.nii.gz  1005_3x1019_3Warped.nii.gz  1006_3x1009_3Warped.nii.gz
+1004_3x1002_3Warped.nii.gz  1004_3x1110_3Warped.nii.gz  1005_3x1023_3Warped.nii.gz  1006_3x1010_3Warped.nii.gz
+1004_3x1003_3Warped.nii.gz  1004_3x1113_3Warped.nii.gz  1005_3x1024_3Warped.nii.gz  1006_3x1011_3Warped.nii.gz
+1004_3x1005_3Warped.nii.gz  1004_3x1116_3Warped.nii.gz  1005_3x1025_3Warped.nii.gz  1006_3x1012_3Warped.nii.gz
+1004_3x1006_3Warped.nii.gz  1004_3x1119_3Warped.nii.gz  1005_3x1036_3Warped.nii.gz  1006_3x1013_3Warped.nii.gz
+1004_3x1007_3Warped.nii.gz  1004_3x1122_3Warped.nii.gz  1005_3x1038_3Warped.nii.gz  1006_3x1014_3Warped.nii.gz
+1004_3x1008_3Warped.nii.gz  1004_3x1125_3Warped.nii.gz  1005_3x1039_3Warped.nii.gz  1006_3x1015_3Warped.nii.gz
+1004_3x1009_3Warped.nii.gz  1004_3x1128_3Warped.nii.gz  1005_3x1101_3Warped.nii.gz  1006_3x1017_3Warped.nii.gz
+1004_3x1010_3Warped.nii.gz  1005_3x1000_3Warped.nii.gz  1005_3x1104_3Warped.nii.gz  1006_3x1018_3Warped.nii.gz
+1004_3x1011_3Warped.nii.gz  1005_3x1001_3Warped.nii.gz  1005_3x1107_3Warped.nii.gz  1006_3x1019_3Warped.nii.gz
+1004_3x1012_3Warped.nii.gz  1005_3x1002_3Warped.nii.gz  1005_3x1110_3Warped.nii.gz  1006_3x1023_3Warped.nii.gz
+1004_3x1013_3Warped.nii.gz  1005_3x1003_3Warped.nii.gz  1005_3x1113_3Warped.nii.gz  1006_3x1024_3Warped.nii.gz
+1004_3x1014_3Warped.nii.gz  1005_3x1004_3Warped.nii.gz  1005_3x1116_3Warped.nii.gz  1006_3x1025_3Warped.nii.gz
+1004_3x1015_3Warped.nii.gz  1005_3x1006_3Warped.nii.gz  1005_3x1119_3Warped.nii.gz  1006_3x1036_3Warped.nii.gz
+1004_3x1017_3Warped.nii.gz  1005_3x1007_3Warped.nii.gz  1005_3x1122_3Warped.nii.gz  1006_3x1038_3Warped.nii.gz
+1004_3x1018_3Warped.nii.gz  1005_3x1008_3Warped.nii.gz  1005_3x1125_3Warped.nii.gz  1006_3x1039_3Warped.nii.gz
+1004_3x1019_3Warped.nii.gz  1005_3x1009_3Warped.nii.gz  1005_3x1128_3Warped.nii.gz  1006_3x1101_3Warped.nii.gz
+
+Testing datasets:
+1006_3x1104_3Warped.nii.gz  1007_3x1004_3Warped.nii.gz  1007_3x1019_3Warped.nii.gz  1007_3x1119_3Warped.nii.gz
+1006_3x1107_3Warped.nii.gz  1007_3x1005_3Warped.nii.gz  1007_3x1023_3Warped.nii.gz  1007_3x1122_3Warped.nii.gz
+1006_3x1110_3Warped.nii.gz  1007_3x1006_3Warped.nii.gz  1007_3x1024_3Warped.nii.gz  1007_3x1125_3Warped.nii.gz
+1006_3x1113_3Warped.nii.gz  1007_3x1008_3Warped.nii.gz  1007_3x1025_3Warped.nii.gz  1007_3x1128_3Warped.nii.gz
+1006_3x1116_3Warped.nii.gz  1007_3x1009_3Warped.nii.gz  1007_3x1036_3Warped.nii.gz  1008_3x1000_3Warped.nii.gz
+1006_3x1119_3Warped.nii.gz  1007_3x1010_3Warped.nii.gz  1007_3x1038_3Warped.nii.gz  1008_3x1001_3Warped.nii.gz
+1006_3x1122_3Warped.nii.gz  1007_3x1011_3Warped.nii.gz  1007_3x1039_3Warped.nii.gz  1008_3x1002_3Warped.nii.gz
+1006_3x1125_3Warped.nii.gz  1007_3x1012_3Warped.nii.gz  1007_3x1101_3Warped.nii.gz  1008_3x1003_3Warped.nii.gz
+1006_3x1128_3Warped.nii.gz  1007_3x1013_3Warped.nii.gz  1007_3x1104_3Warped.nii.gz  1008_3x1004_3Warped.nii.gz
+1007_3x1000_3Warped.nii.gz  1007_3x1014_3Warped.nii.gz  1007_3x1107_3Warped.nii.gz  1008_3x1005_3Warped.nii.gz
+1007_3x1001_3Warped.nii.gz  1007_3x1015_3Warped.nii.gz  1007_3x1110_3Warped.nii.gz  1008_3x1006_3Warped.nii.gz
+1007_3x1002_3Warped.nii.gz  1007_3x1017_3Warped.nii.gz  1007_3x1113_3Warped.nii.gz
+1007_3x1003_3Warped.nii.gz  1007_3x1018_3Warped.nii.gz  1007_3x1116_3Warped.nii.gz
