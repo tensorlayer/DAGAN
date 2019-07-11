@@ -84,7 +84,7 @@ def u_net_bn(x, is_train=False, reuse=False, is_refine=False):
         tl.layers.set_name_reuse(reuse)
         inputs = InputLayer(x, name='input')
 
-        conv1 = Conv2d(inputs, 64, (4, 4), (2, 2), act=None, padding='SAME',
+        conv1 = Conv2d(inputs, 64, (4, 4), (2, 2), act=lambda x: tl.act.lrelu(x, 0.2), padding='SAME',
                        W_init=w_init, b_init=b_init, name='conv1')
         conv2 = Conv2d(conv1, 128, (4, 4), (2, 2), act=None, padding='SAME',
                        W_init=w_init, b_init=b_init, name='conv2')
